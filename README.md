@@ -39,6 +39,18 @@ Projeto do curso **CS50P (Harvard)** — sistema básico de gerenciamento de con
 
 ---
 
+### 🏠 [PriceMyHome](https://github.com/Whandger/PriceMyHome)
+Aplicação web que estima o **valor de imóveis utilizando Machine Learning**.  
+**Tecnologias:** Flask, scikit-learn, Numpy, HTML5, CSS3, JavaScript (Fetch API)  
+**Destaques:**
+- Inserção de múltiplos imóveis para treino do modelo  
+- API REST que recebe dados em JSON e retorna a previsão  
+- Regressão linear com normalização de dados via StandardScaler  
+- Estrutura modular com Blueprints e pastas dedicadas para rotas, utilitários e estáticos  
+- Interface minimalista e intuitiva  
+
+---
+
 ## 🎓 Formação e Certificações
 
 - 🎓 Pós-graduação em **Desenvolvimento Full Stack** – PUC Rio *(em andamento)*

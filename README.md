@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Whandger Wolffenbüttel
+# 📌 Oi! Eu sou o Whandger
 
 Sou um **desenvolvedor Full Stack** em constante evolução, com sólida base em **Python (Flask)**, **JavaScript**, **HTML5**, **CSS3** e **MySQL**.  
 Atualmente curso **Pós-graduação em Desenvolvimento Full Stack pela PUC Rio**, e sou formado em **Administração pela Unopar**.
@@ -94,7 +94,7 @@ Busco sempre aprender algo novo, seja para aprimorar meus projetos pessoais ou c
 
 💼 [LinkedIn](https://www.linkedin.com/in/whandger)  
 💻 [GitHub](https://github.com/Whandger)  
-📧 **whandger.wolffenbuttel@gmail.com**
+📧 **whandger@gmail.com**
 
 ---
 

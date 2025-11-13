@@ -65,5 +65,3 @@ Git • GitHub • Excel Avançado • Automação com Python • Metodologias �
 
 Sou **autodidata**, **curioso** e gosto de entender a fundo como as coisas funcionam.  
 Busco sempre aprender algo novo, seja para aprimorar meus projetos pessoais ou criar soluções práticas que unam **tecnologia e propósito real**.  
-
-> “O conhecimento só tem valor quando aplicado com intençã

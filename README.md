@@ -33,6 +33,25 @@ Aplicação web Full Stack para **controle financeiro pessoal**.
 
 ---
 
+🏡 PriceMyHome
+Aplicação web para estimar valores de imóveis utilizando Machine Learning.
+Tecnologias: Python (Flask, Blueprints), scikit-learn, NumPy, HTML5, CSS3, JavaScript (Fetch API)
+Destaques:
+
+Regressão com normalização via StandardScaler
+
+Treinamento de modelo a partir dos dados enviados pelo usuário
+
+Previsão dinâmica do valor de um imóvel alvo
+
+Arquitetura organizada com Blueprints
+
+Interface clara e simples para interação com o modelo
+
+Integração completa entre backend (ML) e frontend (Fetch API)
+
+---
+
 ### 🧠 [Página Profissional de Psicologia](https://github.com/Whandger/Pagina-de-Psicologia)
 Website responsivo desenvolvido para um psicólogo, com foco em **apresentação profissional e usabilidade**.  
 **Tecnologias:** HTML5, CSS3, JavaScript  

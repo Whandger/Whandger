@@ -9,6 +9,18 @@ Minha trajetória combina **experiência em gestão e finanças** com o desenvol
 
 ## 🚀 Projetos em destaque
 
+### 🎬 Match Movies
+Aplicação web social no estilo **Tinder para Filmes**, onde você se conecta com amigos para descobrir e dar match em filmes em comum.
+**Tecnologias:** Python (Flask), PostgreSQL, JavaScript, HTML5, CSS3, API TMDB
+**Destaques:**
+- Sistema de conexão social simples por ID de usuário
+- Interface interativa de "swipe" para avaliar filmes
+- Cards giratórios que revelam gêneros, sinopse e trailer
+- Painel em tempo real que mostra os matches com a pessoa conectada
+
+Deploy pronto e funcional no Render
+🔗 Teste online: https://match-movies.onrender.com
+
 ### 🏠 [PriceMyHome](https://github.com/Whandger/PriceMyHome)
 Aplicação web que estima o **valor de imóveis utilizando Machine Learning**.  
 **Tecnologias:** Flask, scikit-learn, Numpy, HTML5, CSS3, JavaScript (Fetch API)  

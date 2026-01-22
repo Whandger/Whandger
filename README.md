@@ -9,7 +9,7 @@ Minha trajetória combina **experiência em gestão e finanças** com o desenvol
 
 ## 🚀 Projetos em destaque
 
-### 🎬 Match Movies
+### 🎬 [Match Movies](https://github.com/Whandger/Match-Movies)
 Aplicação web social no estilo **Tinder para Filmes**, onde você se conecta com amigos para descobrir e dar match em filmes em comum.
 **Tecnologias:** Python (Flask), PostgreSQL, JavaScript, HTML5, CSS3, API TMDB
 **Destaques:**

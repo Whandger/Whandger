@@ -22,6 +22,8 @@ Aplicação web social no estilo **Tinder para Filmes**, onde você se conecta c
 
 Deploy: https://match-movies.onrender.com
 
+---
+
 ### 🏠 [PriceMyHome](https://github.com/Whandger/PriceMyHome)
 Aplicação web que estima o **valor de imóveis utilizando Machine Learning**.  
 **Tecnologias:** Flask, scikit-learn, Numpy, HTML5, CSS3, JavaScript (Fetch API)  

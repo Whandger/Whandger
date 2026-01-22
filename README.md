@@ -19,6 +19,7 @@ Aplicação web social no estilo **Tinder para Filmes**, onde você se conecta c
 - Painel em tempo real que mostra os matches com a pessoa conectada
 
 🔗 **Teste online:**
+
 Deploy: https://match-movies.onrender.com
 
 ### 🏠 [PriceMyHome](https://github.com/Whandger/PriceMyHome)
@@ -56,6 +57,7 @@ Jogo 2D inspirado em **Flappy Bird**, recriado do zero para fins de estudo.
 **Tecnologias:** JavaScript, HTML5 Canvas  
 
 🔗 **Teste online**
+
 Deploy: https://whandger.github.io/FlappyBird-Genre-2d-game/
 
 ---

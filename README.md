@@ -16,9 +16,13 @@ Tecnologias: Python (Flask), PostgreSQL, JavaScript, HTML5, CSS3, API TMDB
 
 Principais desafios técnicos:
 • Filtragem e validação de dados vindos de API externa
+
 • Controle de estado de filmes já visualizados por usuário
+
 • Regra de match baseada na interseção de preferências entre dois usuários conectados
+
 • Sincronização de ações entre usuários sem duplicação de resultados
+
 • Separação clara entre lógica de negócio, rotas e camada de dados
 
 🔗 Deploy: https://match-movies.onrender.com

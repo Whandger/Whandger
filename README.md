@@ -19,8 +19,8 @@ Principais desafios técnicos:
 ````
 • Filtragem e validação de dados vindos de API externa
 • Controle de estado de filmes já visualizados por usuário
-• Regra de match baseada na interseção de preferências entre dois usuários conectados
 • Sincronização de ações entre usuários sem duplicação de resultados
+• Regra de match baseada na interseção de preferências entre dois usuários conectados, garantindo consistência dos resultados
 • Separação clara entre lógica de negócio, rotas e camada de dados
 ````
 
@@ -34,12 +34,13 @@ Aplicação web full stack para controle financeiro pessoal, com foco em seguran
 Tecnologias: Python (Flask), MySQL, JavaScript, HTML5, CSS3, Chart.js
 
 Principais desafios técnicos:
+```
 • Autenticação de usuários com hash de senha e sessões protegidas
 • Modelagem de dados para receitas, despesas e categorias
 • CRUD completo com validação de dados
 • Importação de planilhas Excel e tratamento de erros
 • Geração de dashboards interativos a partir dos dados persistidos
-
+```
 ---
 
 ### 🏠 [PriceMyHome](https://github.com/Whandger/PriceMyHome)
@@ -48,10 +49,12 @@ Aplicação web para estimativa de valor de imóveis utilizando Machine Learning
 Tecnologias: Flask, scikit-learn, Numpy, HTML5, CSS3, JavaScript
 
 Destaques técnicos:
+```
 • Treinamento de modelo de regressão linear
 • Normalização de dados com StandardScaler
 • API REST para consumo do modelo
 • Estrutura modular com Blueprints
+```
 
 ---
 

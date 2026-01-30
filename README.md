@@ -15,8 +15,8 @@ Aplicação web full stack com regras de negócio para sincronização de prefer
 
 Tecnologias: Python (Flask), PostgreSQL, JavaScript, HTML5, CSS3, API TMDB
 
-````
 Principais desafios técnicos:
+````
 • Filtragem e validação de dados vindos de API externa
 • Controle de estado de filmes já visualizados por usuário
 • Regra de match baseada na interseção de preferências entre dois usuários conectados

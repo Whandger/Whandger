@@ -10,41 +10,45 @@ Minha trajetória combina **experiência em gestão e finanças** com o desenvol
 ## 🚀 Projetos em destaque
 
 ### 🎬 [Match Movies](https://github.com/Whandger/Match-Movies)
-Aplicação web social no estilo **Tinder para Filmes**, onde você se conecta com amigos para descobrir e dar match em filmes em comum.
-**Tecnologias:** Python (Flask), PostgreSQL, JavaScript, HTML5, CSS3, API TMDB
-**Destaques:**
-- Sistema de conexão social simples por ID de usuário
-- Interface interativa de "swipe" para avaliar filmes
-- Cards giratórios que revelam gêneros, sinopse e trailer
-- Painel em tempo real que mostra os matches com a pessoa conectada
+Aplicação web full stack com regras de negócio para sincronização de preferências entre usuários, consumo de API externa e lógica de match baseada em filtros e histórico de interações.
 
-🔗 **Teste online:**
+Tecnologias: Python (Flask), PostgreSQL, JavaScript, HTML5, CSS3, API TMDB
 
-Deploy: https://match-movies.onrender.com
+Principais desafios técnicos:
+• Filtragem e validação de dados vindos de API externa
+• Controle de estado de filmes já visualizados por usuário
+• Regra de match baseada na interseção de preferências entre dois usuários conectados
+• Sincronização de ações entre usuários sem duplicação de resultados
+• Separação clara entre lógica de negócio, rotas e camada de dados
 
----
-
-### 🏠 [PriceMyHome](https://github.com/Whandger/PriceMyHome)
-Aplicação web que estima o **valor de imóveis utilizando Machine Learning**.  
-**Tecnologias:** Flask, scikit-learn, Numpy, HTML5, CSS3, JavaScript (Fetch API)  
-**Destaques:**
-- Inserção de múltiplos imóveis para treino do modelo  
-- API REST que recebe dados em JSON e retorna a previsão  
-- Regressão linear com normalização de dados via StandardScaler  
-- Estrutura modular com Blueprints  
-- Interface minimalista e intuitiva  
+🔗 Deploy: https://match-movies.onrender.com
 
 ---
 
 ### 💰 [PersonalFinances](https://github.com/Whandger/PersonalFinances)
-Aplicação web Full Stack para **controle financeiro pessoal**.  
-**Tecnologias:** Flask, MySQL, JavaScript, HTML5, CSS3  
-**Destaques:**
-- Autenticação de usuários com senha hash e sessões seguras  
-- CRUD completo de receitas e despesas com categorias  
-- Importação de planilhas Excel  
-- Dashboard interativo com gráficos (Chart.js)  
-- Interface responsiva e intuitiva  
+Aplicação web full stack para controle financeiro pessoal, com foco em segurança, consistência de dados e visualização clara das informações.
+
+Tecnologias: Python (Flask), MySQL, JavaScript, HTML5, CSS3, Chart.js
+
+Principais desafios técnicos:
+• Autenticação de usuários com hash de senha e sessões protegidas
+• Modelagem de dados para receitas, despesas e categorias
+• CRUD completo com validação de dados
+• Importação de planilhas Excel e tratamento de erros
+• Geração de dashboards interativos a partir dos dados persistidos
+
+---
+
+### 🏠 [PriceMyHome](https://github.com/Whandger/PriceMyHome)
+Aplicação web para estimativa de valor de imóveis utilizando Machine Learning.
+
+Tecnologias: Flask, scikit-learn, Numpy, HTML5, CSS3, JavaScript
+
+Destaques técnicos:
+• Treinamento de modelo de regressão linear
+• Normalização de dados com StandardScaler
+• API REST para consumo do modelo
+• Estrutura modular com Blueprints
 
 ---
 

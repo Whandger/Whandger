@@ -119,9 +119,7 @@ Projeto do curso **CS50P (Harvard)** — sistema básico de gerenciamento de con
 Sou autodidata e gosto de entender sistemas a fundo, com foco em lógica, regras de negócio e organização de código. Busco aplicar o que aprendo em projetos práticos e funcionais.  
 
 > “Do not disturb yourself by imagining your whole life at once
-
-- Marcus Aurelius.
-.”
+- Marcus Aurelius.”
 
 ---
 

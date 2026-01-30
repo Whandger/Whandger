@@ -20,7 +20,7 @@ Principais desafios técnicos:
 • Filtragem e validação de dados vindos de API externa
 • Controle de estado de filmes já visualizados por usuário
 • Sincronização de ações entre usuários sem duplicação de resultados
-• Regra de match baseada na interseção de preferências entre dois usuários conectados, garantindo consistência dos resultados
+• Regra de match baseada na interseção de preferências entre dois usuários conectados
 • Separação clara entre lógica de negócio, rotas e camada de dados
 ````
 

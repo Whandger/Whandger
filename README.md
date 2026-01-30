@@ -12,7 +12,9 @@ Minha trajetória combina **experiência em gestão e finanças** com o desenvol
 ### 🎬 [Match Movies](https://github.com/Whandger/Match-Movies)
 Aplicação web full stack com regras de negócio para sincronização de preferências entre usuários, consumo de API externa e lógica de match baseada em filtros e histórico de interações.
 
+
 Tecnologias: Python (Flask), PostgreSQL, JavaScript, HTML5, CSS3, API TMDB
+
 
 Principais desafios técnicos:
 • Filtragem e validação de dados vindos de API externa
@@ -24,6 +26,7 @@ Principais desafios técnicos:
 • Sincronização de ações entre usuários sem duplicação de resultados
 
 • Separação clara entre lógica de negócio, rotas e camada de dados
+
 
 🔗 Deploy: https://match-movies.onrender.com
 

@@ -1,16 +1,16 @@
 # 📌 Oi! Eu sou o Whandger
 
-Sou um **desenvolvedor Full Stack** em constante evolução, com sólida base em **Python (Flask)**, **JavaScript**, **HTML5**, **CSS3** e **MySQL**.  
-Atualmente curso **Pós-graduação em Desenvolvimento Full Stack pela PUC Rio**, e sou formado em **Administração pela Unopar**.
+Sou **desenvolvedor Full Stack** com sólida base em **Python (Flask)**, **JavaScript**, **HTML5**, **CSS3** e **bancos de dados relacionais** como **MySQL** e **PostgreSQL**.
+Atualmente curso **Pós-graduação em Desenvolvimento Full Stack** pela PUC Rio e sou formado em **Administração** pela Unopar.
 
-Minha trajetória combina **experiência em gestão e finanças** com o desenvolvimento de **soluções web completas**, unindo raciocínio lógico, curiosidade e prática constante para criar sistemas funcionais e intuitivos.
+Minha trajetória combina experiência em gestão e finanças com o desenvolvimento de soluções **web** completas, unindo raciocínio lógico, curiosidade e prática constante para criar sistemas funcionais e intuitivos.
 
 ---
 
 ## 🚀 Projetos em destaque
 
 ### 🎬 [Match Movies](https://github.com/Whandger/Match-Movies)
-Aplicação web full stack com regras de negócio para sincronização de preferências entre usuários, consumo de API externa e lógica de match baseada em filtros e histórico de interações.
+Aplicação web full stack focada em regras de negócio para sincronização de preferências entre usuários, consumo e tratamento de dados de API externa e lógica de match baseada em filtros e histórico de interações.
 
 
 Tecnologias: Python (Flask), PostgreSQL, JavaScript, HTML5, CSS3, API TMDB

@@ -125,8 +125,7 @@ Sou autodidata e gosto de entender sistemas a fundo, com foco em lógica, regras
 
 ## 🌐 Onde me encontrar
 
-💼 [LinkedIn](https://www.linkedin.com/in/whandger)  
-💻 [GitHub](https://github.com/Whandger)  
+💼 [LinkedIn](https://www.linkedin.com/in/whandger)
 📧 **whandger@gmail.com**
 
 ---

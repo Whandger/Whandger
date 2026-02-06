@@ -87,7 +87,7 @@ Deploy: https://eduarda-priebe.vercel.app/
 
 ### 🕹️ [FlappyBird-Genre-2D-Game](https://github.com/Whandger/FlappyBird-Genre-2d-game)
 Jogo 2D inspirado em **Flappy Bird**, recriado do zero para fins de estudo.  
-**Tecnologias:** JavaScript, HTML5 Canvas  
+**Tecnologias:** JavaScript, HTML5, CSS3 
 
 🔗 **Teste online**
 

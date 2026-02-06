@@ -43,7 +43,7 @@ Principais desafios técnicos:
 ```
 ---
 
-### 🚀 [Perplexity Email Analyzer](https://github.com/Whandger/Email-analyzer)
+### ✉ [Perplexity Email Analyzer](https://github.com/Whandger/Email-analyzer)
 Aplicação web inteligente que analisa emails em tempo real usando IA avançada, classificando conteúdo e gerando respostas automáticas personalizadas com foco em segurança e produtividade corporativa.
 
 Tecnologias: Python (Flask), Perplexity AI API, JavaScript, HTML5, CSS3, NLP (spaCy)

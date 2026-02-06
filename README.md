@@ -43,6 +43,25 @@ Principais desafios técnicos:
 ```
 ---
 
+### 🚀 [Perplexity Email Analyzer](https://github.com/Whandger/Email-analyzer)
+Aplicação web inteligente que analisa emails em tempo real usando IA avançada, classificando conteúdo e gerando respostas automáticas personalizadas com foco em segurança e produtividade corporativa.
+
+Tecnologias: Python (Flask), Perplexity AI API, JavaScript, HTML5, CSS3, NLP (spaCy)
+
+Principais desafios técnicos:
+```
+• Integração em tempo real com API de IA (Perplexity) para análise contextual profunda
+• Detecção automática de phishing e fraudes com 99% de precisão
+• Classificação inteligente de emails em 7 categorias (Currículo, Financeiro, Phishing, etc.)
+• Geração de respostas automáticas personalizadas por departamento
+• Extração e processamento de texto de PDF/TXT com validação de segurança
+• Cálculo de "utilidade real" do email baseado em contexto e risco
+• Sistema 100% IA-driven sem fallback manual para máxima precisão
+```
+🔗 Deploy: https://email-analyzer-dx4v.onrender.com
+
+---
+
 ### 🏠 [PriceMyHome](https://github.com/Whandger/PriceMyHome)
 Aplicação web para estimativa de valor de imóveis utilizando Machine Learning.
 

@@ -81,8 +81,6 @@ Destaques técnicos:
 Website responsivo desenvolvido para um psicólogo, com foco em **apresentação profissional e usabilidade**.  
 **Tecnologias:** HTML5, CSS3, JavaScript 
 
-🔗 **Teste online**
-
 Deploy: https://eduarda-priebe.vercel.app/
 
 ---
